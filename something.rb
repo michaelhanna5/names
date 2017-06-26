@@ -1,4 +1,4 @@
 def firstname
-	print "mizike"
+	print "michael"
 end
  firstname
