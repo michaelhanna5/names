@@ -1,4 +1,16 @@
-def firstname
-	print "michael"
+def mynameis 
+	print "My name is"
 end
- firstname
+
+def firstname
+	print " Slim"
+end
+
+def lastname
+	print " Shady"
+end
+
+ mynameis;
+ firstname;
+ lastname;
+ 
